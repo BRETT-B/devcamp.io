@@ -3,7 +3,7 @@
 * A back-end project for DigitalCrafts that must utiilze a server side languange
 * Utilize scrum agile methodology implemented via scrum meetings and scrum board to track our progress
 
-![screenshot](public/images/trelloboard.png)
+![screenshot](https://github.com/BRETT-B/devcamp.io/blob/master/html/public/images/trelloboard.png?raw=true)
 
 #Overview
 * Devcamp.io is site where coding bootcamp students, potential students, and graduates can come to post blogs about their experiences and discuss topics in the forum
@@ -25,13 +25,13 @@ MySQL
 
 #Project Screenshots
 
-![screenshot](public/images/homepage.png)
+![screenshot](https://github.com/BRETT-B/devcamp.io/blob/master/html/public/images/homepage.png)
 
-![screenshot](public/images/forumview.png)
+![screenshot](https://github.com/BRETT-B/devcamp.io/blob/master/html/public/images/forumview.png)
 
-![screenshot](public/images/blogview.png)
+![screenshot](https://github.com/BRETT-B/devcamp.io/blob/master/html/public/images/blogview.png)
 
-![screenshot](public/images/registration.png)
+![screenshot](https://github.com/BRETT-B/devcamp.io/blob/master/html/public/images/registration.png)
 
 
 ###Contributors:
